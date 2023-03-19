@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/Inioluwa2003/Frontend-mentor-QR-code-challenge)
+- Solution URL: (https://www.frontendmentor.io/solutions/solution-using-basic-css-74btdj-rZw)
 - Live Site URL: (https://inioluwa2003.github.io/Frontend-mentor-QR-code-challenge/)
 
 ## My process
